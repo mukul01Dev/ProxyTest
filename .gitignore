@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor/Workspace configs
+.vscode/
+.idea/
+*.code-workspace
+
+# Local sandbox dashboard (Not pushed to GitHub)
+local_dashboard/
